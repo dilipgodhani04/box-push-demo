@@ -4,7 +4,7 @@
 	 box-sizing: border-box;
 }
 .box{
-	  background-color: teal;
+	  background-color: yellowgreen;
 	  height: 150px;
 	  width: 150px;
 	  float: left;
@@ -14,7 +14,7 @@
 	  font-size: 25px;
 	  color: floralwhite;
 	  border: 7.5px dotted #FF5733;
-	  .oval
+	
 
 
 
@@ -25,7 +25,7 @@
     .oval {
       width: 200px;
       height: 100px;
-      background: teal;
+      background: yel;
       border-radius: 100px / 50px;
       margin: 12px;
       text-align: center;
